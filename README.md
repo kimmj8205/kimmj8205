@@ -1,4 +1,4 @@
-### 한녕하세요 👋
+### 녕하세요 👋
 
 <!--
 **kimmj8205/kimmj8205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
