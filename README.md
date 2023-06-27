@@ -1,5 +1,5 @@
 ### 안녕하세요 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmj8205&count_private=true&show_icons=true&theme=buefy)
 <!--
 **kimmj8205/kimmj8205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
